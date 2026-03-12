@@ -1,5 +1,2 @@
-This is file9
-This is line was written on the 12th commit in branch newHotFix
-This is line was written on the 12th commit in branch newHotFix
-This is line was written on the 12th commit in branch newHotFix
-This is line was written on the 12th commit in branch newHotFix
+This is the new content of file9 that will create a merge conflict
+
